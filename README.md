@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Downloader
 
 A Python tool for downloading videos and playlists from YouTube in audio (mp3) or video (mp4) format.
 
@@ -7,15 +7,14 @@ A Python tool for downloading videos and playlists from YouTube in audio (mp3) o
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/HalilDeniz/ICMPWatch.git
+git clone https://github.com/VKspyder2003/Youtube-Downloader.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd YOUR_DIRECTORY
+cd Youtube-Downloader/
 ```
-
 
 3. Install the required dependencies:
 
@@ -98,6 +97,8 @@ options:
 
 3. If your folder name contains spaces, try to enclose the folder name within quotation marks. For example "My Songs".
 
+## License
 
+This tool is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
